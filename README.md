@@ -1,8 +1,6 @@
 # ViewVisibilityCheck
 
-It checks if a View is currently visible on screen, it could be inside a ScrollView or a ViewPager, and it runs a Runnable.
-
-You can load content or display a message only when a specific View is displayed.
+It checks if a View is currently visible on screen, it could be inside a ScrollView or a ViewPager. You can load content when only a specific View is displayed.
 
 ### Example
 
